@@ -1,0 +1,8 @@
+{
+  "name": "Comprell-v2",
+  "description": "A sophisticated tool for assessing academic papers and patents, allowing cross-referencing with internal knowledge bases via an AI-driven chat interface.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
